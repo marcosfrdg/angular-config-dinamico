@@ -12,7 +12,7 @@ export function initConfig(appConfig: ConfiguracaoService) {
 }
 
 @NgModule({
-  imports: [BrowserModule, FormsModule],
+  imports: [BrowserModule, FormsModule, HttpClientModule],
   declarations: [AppComponent, HelloComponent],
   bootstrap: [AppComponent],
   providers: [
