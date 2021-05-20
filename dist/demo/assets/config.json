@@ -1,0 +1,8 @@
+{
+    "authConfig": {
+      "authUrl": "acesso.inmetro.local"
+    },
+    "server1": "SERVIDOR1",
+    "server2": "SERVIDOR2",
+    "server3": "SERVIDOR3"
+}
